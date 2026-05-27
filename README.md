@@ -80,6 +80,7 @@ ss -tulpn | grep :22
 
 ```text
 .
+├── README.md
 └── Born2beroot/
     └── signature.txt
 ```
